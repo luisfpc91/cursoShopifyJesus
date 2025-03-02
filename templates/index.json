@@ -15,8 +15,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Hello Word",
-            "heading_size": "h0"
+            "heading": "Bienvenidos a mi primera tienda",
+            "heading_size": "h1"
           }
         },
         "button": {
@@ -36,6 +36,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/model-in-neutral-colors-by-window.jpg",
         "image_2": "shopify://shop_images/woman-infront-of-tree-with-berries.jpeg",
         "image_overlay_opacity": 40,
         "image_height": "large",
