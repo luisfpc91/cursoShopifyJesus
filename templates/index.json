@@ -77,10 +77,66 @@
         "padding_top": 32,
         "padding_bottom": 32
       }
+    },
+    "slideshow_3VbAEt": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_QfCxQV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/fall-vegetable-box.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_8k9rtr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/mist-rises-above-rocky-water-fall.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_QfCxQV",
+        "slide_8k9rtr"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "slideshow_3VbAEt"
   ]
 }
